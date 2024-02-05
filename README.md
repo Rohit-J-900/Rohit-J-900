@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rohit-J-900
+- 👋 Hi, I’m Rohit J, from Bangalore, I have completed my Degree in Bachelor of Computer Applications in 2022 and looking forward to get a good offer in IT Domain.
 - 👀 I’m interested in Coding, Scripting and Learning various languages.
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Programing Industry and looking forward to get a good offer.
+- 💞️ I’m looking to collaborate on Programing Industry.
 - 📫 How to reach me Mobile: +91 9008162064, E-Mail: rohitofficialcs@gmail.com
 - ⚡ Fun fact: I love to travel or explore places and play games in my free time.
 
