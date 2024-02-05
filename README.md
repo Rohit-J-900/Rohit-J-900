@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit J, from Bangalore, I have completed my Degree in Bachelor of Computer Applications in 2022 and looking forward to get a good offer in IT Domain.
-- 👀 I’m interested in Coding, Scripting and Learning various Programminglanguages.
+- 👀 I’m interested in Coding, Scripting and Learning various Programming languages.
 - 🌱 I’m currently learning Full Stack Development with DSA
 - 💞️ I’m looking to collaborate on Programming Industry.
 - 📫 How to reach me Mobile: +91 9008162064, E-Mail: rohitofficialcs@gmail.com
